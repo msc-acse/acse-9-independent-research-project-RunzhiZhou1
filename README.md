@@ -15,7 +15,7 @@ Python 3.7.3
 With many thanks to my supervisors, Dr. Gerard Gorman, Dr. Navjot Kukreja, and Dr. Peter Fitch,
 for their extensive support and guidance throughout this project.
 
-NOTE: There are 13 ipynb(code) documents, 1 PDF document , and 1 xlsx(excel) document in this reprository
+NOTE: There are 13 ipynb(code) documents, 1 PDF document , and 1 xlsx(excel) document in this repositories.
 
 ## ACSE_RUNZHI.pdf
 The main report.
