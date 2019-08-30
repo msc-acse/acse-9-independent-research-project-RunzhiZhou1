@@ -15,10 +15,13 @@ Python 3.7.3
 With many thanks to my supervisors, Dr. Gerard Gorman, Dr. Navjot Kukreja, and Dr. Peter Fitch,
 for their extensive support and guidance throughout this project.
 
-## There are 13 ipynb documents, 1 PDF, and 1 excel in this reprository
+NOTE: There are 13 ipynb(code) documents, 1 PDF document , and 1 xlsx(excel) document in this reprository
 
 ## ACSE_RUNZHI.pdf
-The main report
+The main report.
+
+## dataset.xlsx
+5 wells data with labels.
 
 ## Section_3_2.ipynb 
 Code for section3.2 in the report.
