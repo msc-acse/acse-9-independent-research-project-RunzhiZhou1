@@ -1,4 +1,5 @@
 # acse-9-independent-research-project-RunzhiZhou1
+NOTE: There are 13 ipynb(code) documents, 1 PDF document , and 1 xlsx(excel) document in this repositories.
 
 ## Technical Platform
 
