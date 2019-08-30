@@ -15,7 +15,7 @@ Python 3.7.3
 With many thanks to my supervisors, Dr. Gerard Gorman, Dr. Navjot Kukreja, and Dr. Peter Fitch,
 for their extensive support and guidance throughout this project.
 
-## There are  attached documents for the answers
+## There are 13 ipynb documents, 1 PDF, and 1 excel in this reprository
 
 ## ACSE_RUNZHI.pdf
 
