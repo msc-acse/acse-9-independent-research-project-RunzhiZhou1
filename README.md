@@ -33,3 +33,9 @@ There are  attached documents for the answers
 
 
 
+# Technical Platform
+Jupyter notebooks Python 3.7.3
+Anaconda version: Anaconda 4.6.14
+Operating System: Windows 10
+# Programming Language
+Python 3.7.3
