@@ -1,2 +1,7 @@
 # acse-9-independent-research-project-RunzhiZhou1
-acse-9-independent-research-project-RunzhiZhou1 created by GitHub Classroom
+
+With many thanks to my supervisors, Dr. Gerard Gorman, Dr. Navjot Kukreja, and Dr. Peter Fitch,
+for their extensive support and guidance throughout this project.
+
+There are ipyn and one PDF document in this reprosetery
+
